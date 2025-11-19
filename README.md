@@ -1,4 +1,4 @@
-<h1>JWipe - Group and User Management</h1>
+<h1>Group and User Management</h1>
 
 <h2>Description</h2>
 This project demonstrates my ability to manage user and group accounts in a Linux environment using command line tools. The tasks required a strong understanding of system administration commands, file permissions, authentication settings, account creation, group management, and shell configuration. Throughout the project, I used the terminal to create and manage users, configure password settings, modify groups, and verify ownership and permissions using standard Linux utilities.
