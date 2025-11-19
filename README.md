@@ -16,12 +16,9 @@ This project demonstrates my ability to manage user and group accounts in a Linu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/SzxJRpQ"/>
-<br />
-<br />
+
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="User Mangement1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
