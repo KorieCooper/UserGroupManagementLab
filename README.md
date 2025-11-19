@@ -17,7 +17,7 @@ This project demonstrates my ability to manage user and group accounts in a Linu
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/SzxJRpQ"/>
 <br />
 <br />
 Select the disk:  <br/>
