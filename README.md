@@ -16,17 +16,17 @@ This project demonstrates my ability to manage user and group accounts in a Linu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Select the disk:  <br/>
+Tasks assigned for the lab:  <br/>
+<img src="IMG_0609.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <img src="User Mangement1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+<br/>
 <img src="UM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
 <img src="UM3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
