@@ -11,7 +11,7 @@ This project demonstrates my ability to manage user and group accounts in a Linu
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux VM </b> (21H2)
+- <b>Kali Linux VM </b>
 
 <h2>Program walk-through:</h2>
 
